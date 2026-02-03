@@ -240,7 +240,7 @@ h1, h2, h3, .podtytul, .logo {
   /* Sekcja O Mnie - Mobile */
   .ukladOmnie { display: block; }
   .ukladOmniePrawa { display: none; }
-  .sekcjaOmnie { background: url("blacknwhite.jpg") center/cover no-repeat; }
+  .sekcjaOmnie { background: url("/blacknwhite.jpg") center/cover no-repeat; }
   .kartaOmnie { background: rgba(255, 255, 255, 0.75); margin-top: 200px; }
   
   /* Sekcja Usługi - Mobile */
