@@ -2,7 +2,7 @@
 
 Profesjonalna strona wizytówka dla Indywidualnej Praktyki Pielęgniarskiej w Kluczborku. Projekt łączy nowoczesny design z funkcjonalnością niezbędną w branży medycznej, zapewniając pacjentom łatwy dostęp do oferty i kontaktu.
 
-🔗 **Demo:** [https://twoja-strona.vercel.app](https://twoja-strona.vercel.app) *(Zmień ten link na swój prawdziwy adres Vercel)*
+🔗 https://strona-pielegniarka.vercel.app/
 
 ---
 
