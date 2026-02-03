@@ -1,42 +1,67 @@
-# sv
+# 🏥 Honorata Dawid – Usługi Pielęgniarskie
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Profesjonalna strona wizytówka dla Indywidualnej Praktyki Pielęgniarskiej w Kluczborku. Projekt łączy nowoczesny design z funkcjonalnością niezbędną w branży medycznej, zapewniając pacjentom łatwy dostęp do oferty i kontaktu.
 
-## Creating a project
+🔗 **Demo:** [https://twoja-strona.vercel.app](https://twoja-strona.vercel.app) *(Zmień ten link na swój prawdziwy adres Vercel)*
 
-If you're seeing this, you've probably already done this step. Congrats!
+---
 
-```sh
-# create a new project
-npx sv create my-app
-```
+## 🚀 O Projekcie
 
-To recreate this project with the same configuration:
+Strona została zaprojektowana z myślą o budowaniu zaufania i profesjonalnym wizerunku medycznym. Głównym celem było stworzenie interfejsu przyjaznego dla osób starszych (czytelność, kontrast), a jednocześnie nowoczesnego i responsywnego.
 
-```sh
-# recreate this project
-npx sv create --template minimal --types ts --add prettier eslint tailwindcss="plugins:typography,forms" sveltekit-adapter="adapter:auto" devtools-json --install npm myapp
-```
+### Kluczowe funkcjonalności:
+* **Responsywność (RWD):** Pełne dopasowanie do urządzeń mobilnych, tabletów i desktopów.
+* **Interaktywny UI:** Animacje wejścia (Intersection Observer), glassmorphism w nawigacji, płynne przewijanie.
+* **System rezerwacji/kontaktu:** Formularz kontaktowy zintegrowany z **Formspree** z pełną walidacją danych po stronie klienta.
+* **Zgodność z RODO:** Dedykowana podstrona Polityki Prywatności zgodna z wymogami dla podmiotów leczniczych.
+* **Wydajność:** Błyskawiczne ładowanie dzięki architekturze SPA/SSR zapewnianej przez SvelteKit.
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## 🛠️ Technologie
 
-```sh
-npm run dev
+Projekt został zrealizowany w oparciu o najnowsze standardy webowe:
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+* **Core:** [SvelteKit](https://kit.svelte.dev/) (Svelte 5) – dla najwyższej wydajności i reaktywności.
+* **Język:** [TypeScript](https://www.typescriptlang.org/) – dla bezpieczeństwa typów i stabilności kodu.
+* **Style:** [Tailwind CSS](https://tailwindcss.com/) – utility-first CSS z pluginami `typography` i `forms`.
+* **Ikony:** SVG (zoptymalizowane).
+* **Deployment:** [Vercel](https://vercel.com/) – CI/CD i hosting.
 
-## Building
+---
 
-To create a production version of your app:
+## 📦 Uruchomienie lokalne
 
-```sh
-npm run build
-```
+Jeśli chcesz uruchomić ten projekt na własnym komputerze:
 
-You can preview the production build with `npm run preview`.
+1.  **Sklonuj repozytorium:**
+    ```bash
+    git clone [https://github.com/callhestia/strona-pielegniarka.git](https://github.com/callhestia/strona-pielegniarka.git)
+    cd strona-pielegniarka
+    ```
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+2.  **Zainstaluj zależności:**
+    ```bash
+    npm install
+    ```
+
+3.  **Uruchom serwer developerski:**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Zbuduj wersję produkcyjną:**
+    ```bash
+    npm run build
+    ```
+
+---
+
+## 👤 Autor
+
+**Franciszek Dawid**
+* [LinkedIn](https://www.linkedin.com/in/franciszek-dawid/)
+* [GitHub](https://github.com/callhestia)
+
+---
