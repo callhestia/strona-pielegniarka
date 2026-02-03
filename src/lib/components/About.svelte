@@ -21,7 +21,7 @@
             <li><strong>Pielęgniarka | Hospicjum domowe</strong> <span>Sprawowanie specjalistycznej opieki pielęgniarskiej nad pacjentami w warunkach domowych.</span></li>
             <li><strong>Pielęgniarka Oddziałowa | Hospicjum stacjonarne</strong> <span>Zarządzanie personelem pielęgniarskim i organizacja pracy oddziału.</span></li>
             <li><strong>Pielęgniarka | Oddział Kardiologiczny</strong> <span>Opieka nad pacjentami z chorobami serca i układu krążenia, a także po zabiegach kardiologicznych.</span></li>
-            <li><strong>Wykładowca | Uniwersytet Opolski</strong> <span>Prowadząca zajęcia i wykłady praktyczne.</span></li>
+            <li><strong>Wykładowca | Uniwersytet Opolski</strong> <span>Prowadząca wykłady i zajęcia praktyczne.</span></li>
           </ul>
 
           <div class="cytatMotto">
